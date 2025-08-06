@@ -16,7 +16,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 
 <!-- X (formerly Twitter) -->
   <!-- X (formerly Twitter) -->
-  <a href="https://x.com/UgeneTettey" target="_blank" rel="noreferrer">
+  <a href="https://x.com/eugene_tettey" target="_blank" rel="noreferrer">
     <img src="assets/icons/X.png" alt="X" width="40" />
   </a>
 
