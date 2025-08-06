@@ -10,7 +10,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
   </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@eugenetettey" target="_blank" rel="noreferrer">
+  <a href="[https://medium.com/@eugenetettey](https://medium.com/@ugenetettey/why-your-ml-model-fails-in-the-real-world-and-how-to-fix-it-084513d616bd)" target="_blank" rel="noreferrer">
     <img src="assets/icons/medium-2.png" alt="Medium" width="40" />
   </a>
 
