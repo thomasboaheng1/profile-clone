@@ -57,7 +57,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
         <br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40"/>
+        <img src="assets/icons/scipy.png" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
@@ -84,7 +84,9 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
   </tr>
 </table>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UgeneTettey&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Quote
 <div align="center">
@@ -113,8 +115,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UgeneTettey&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
