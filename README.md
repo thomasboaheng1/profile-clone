@@ -11,13 +11,13 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 
   <!-- Medium -->
   <a href="https://medium.com/@eugenetettey" target="_blank" rel="noreferrer">
-    <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/82e13987-b7c5-4eeb-ae11-abb0d6c3e2a9.png" alt="Medium" width="40" />
+    <img src="assets/icons/medium.png" alt="Medium" width="40" />
   </a>
 
 <!-- X (formerly Twitter) -->
   <!-- X (formerly Twitter) -->
   <a href="https://x.com/UgeneTettey" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png" alt="X" width="40" />
+    <img src="assets/icons/X.png" alt="X" width="40" />
   </a>
 
 
