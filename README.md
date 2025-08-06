@@ -2,7 +2,7 @@
 A Ghanaian Data Scientist with the passion for educating and mentoring individuals<br>in the data science community. As a data science instructor, My mission is twofold:<br>1. EDUCATE – I teach core data science skills in a way that’s practical, engaging, and easy to understand.<br>2. EMPOWER – I actively mentor young people entering the data field, helping them grow in confidence and capability.<br><br>As the author of DSiPE (Data Science in Plain English), I break down challenging and somewhat intimidating technical topics into <br>plain, digestible content. Each article is written with the beginner in mind bringing energy, clarity, and a learner-first mindset across board. <br>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/eugene-tettey" target="_blank" rel="noreferrer">
@@ -32,7 +32,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 
 
 
-<h2>💻 Tech Stack:</h2>
+<h2>💻 Tech Stack</h2>
 
 <table>
   <tr>
