@@ -75,7 +75,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+        <img src="assets/icons/github.png" width="40"/>
       </p>
     </td>
     <td style="width: 2px; background-color: gray;"></td>
@@ -91,8 +91,8 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UgeneTettey&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
-### ✍️ Random Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </div>
