@@ -11,7 +11,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 
   <!-- Medium -->
   <a href="https://medium.com/@eugenetettey" target="_blank" rel="noreferrer">
-    <img src="assets/icons/medium.png" alt="Medium" width="40" />
+    <img src="assets/icons/medium-2.png" alt="Medium" width="40" />
   </a>
 
 <!-- X (formerly Twitter) -->
@@ -41,8 +41,8 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+        <img src="assets/icons/Latex.png" width="40"/>
+        <img src="assets/icons/bash-2.png" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
       </p>
@@ -78,7 +78,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
     <td>
       <h4>🎨 Design</h4>
       <p>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/canva.svg" width="40"/>
+        <img src="assets/icons/canva.png" width="40"/>
       </p>
     </td>
   </tr>
