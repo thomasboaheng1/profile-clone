@@ -94,7 +94,7 @@ A Ghanaian Data Scientist with the passion for educating and mentoring individua
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
 </div>
 
 
