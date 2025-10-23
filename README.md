@@ -17,7 +17,7 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 <!-- X (formerly Twitter) -->
   <!-- X (formerly Twitter) -->
   <a href="https://www.instagram.com/tommy_ghost10?igsh=MWc3bWY2cm4wZDY1eQ%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
-    <img src="assets/icons/IG.png" alt="IG" width="40" />
+    <img src="assets/icons/instagram-logo.png" alt="IG" width="40" />
   </a>
 
 
@@ -32,57 +32,22 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 
 
 
-<h2>💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
-<table>
-  <tr>
-    <td>
-      <h4>🧠 Programming & Scripting</h4>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
-        <img src="assets/icons/Latex.png" width="40"/>
-        <img src="assets/icons/bash-2.png" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-      </p>
-    </td>
-    <td style="width: 2px; background-color: gray;"></td>
-    <td>
-      <h4>📊 Data Science & ML</h4>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-        <br/>
-        <img src="assets/icons/scipy.png" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🛠️ Developer Tools</h4>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <img src="assets/icons/github.png" width="40"/>
-      </p>
-    </td>
-    <td style="width: 2px; background-color: gray;"></td>
-    <td>
-      <h4>🎨 Design</h4>
-      <p>
-        <img src="assets/icons/canva.png" width="40"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+  
+  <!-- Data & Analytics -->
+  <img src="assets/icons/powerbi.png" width="45" alt="Power BI"/>
+  <img src="assets/icons/excel.png" width="45" alt="Excel"/>
+  <img src="assets/icons/sql.png" width="45" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" alt="Anaconda"/>
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UgeneTettey&theme=aura&no-frame=false&no-bg=true&margin-w=4)
