@@ -3,7 +3,11 @@
 
 
 <h1 align="center">Hi!, I'm Thomas Boaheng</h1>
-I'm a passionate Data Analyst and Database Administrator with a strong focus on turning raw data into actionable insights and building efficient dashboards  <br>
+I am a dedicated and results-driven Data Analyst and Backend Developer with a strong background in programming, data management, and software development. Currently pursuing a BSc in Information Technology (Level 300), I bring over two years of practical experience gained through internships where I worked on data analysis, database design, and backend system development.
+
+My technical expertise spans tools and technologies such as Python, SQL, Power BI, Excel, and PostgreSQL for data analysis and reporting, as well as FastAPI, Java, and C++ for backend development. I am also proficient with Anaconda, VS Code, and other developer tools that support efficient project delivery.
+
+I’m passionate about leveraging data to uncover insights, build efficient backend systems, and contribute to projects that combine analytical thinking with solid technical execution. I value precision, collaboration, and continuous learning, always striving to grow as a well-rounded IT professional capable of bridging the gap between data and development.
 
 
 ## 🌐 Socials
@@ -12,20 +16,19 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
   <a href="https://www.linkedin.com/in/thomas-boaheng/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
   </a>
->
 
-<!-- X (formerly Twitter) -->
-  <!-- X (formerly Twitter) -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/tommy_ghost10?igsh=MWc3bWY2cm4wZDY1eQ%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
-    <img src="assets/icons/instagram-logo.png" alt="IG" width="40" />
+    <img src="assets/icons/instagram-logo.png" alt="Instagram" width="40" />
   </a>
-
 
   <!-- Email -->
   <a href="mailto:thomasboaheng9@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
   </a>
 </p>
+
+
 
 
 
@@ -57,31 +60,12 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
       <img src="assets/icons/netbeans.png" width="45" alt="NetBeans"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
-      <img src="assets/icons/cursor.png" width="45" alt="Cursor"/>
+      <img src="assets/icons/cursor.jpg" width="45" alt="Cursor"/>
     </td>
   </tr>
 </table>
 
-<!-- Subtle hover animation -->
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  th {
-    font-size: 1.1em;
-    padding-bottom: 10px;
-  }
-  td {
-    padding: 10px 20px;
-  }
-  img {
-    margin: 6px;
-    transition: transform 0.2s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.15);
-  }
-</style>
+
 
 
 
