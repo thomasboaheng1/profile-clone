@@ -1,15 +1,15 @@
-![image alt](https://github.com/UgeneTettey/UgeneTettey/blob/391d7264e26722fdd91c530a5f2ed199d81667fb/assets/banner.jpg)
+![image alt](https://github.com/thomasboaheng1/profile-clone/blob/main/assets/vfbbbggbgbg.png)
 
 
 
-<h1 align="center">Hi!, I'm Eugene Tettey</h1>
-A Ghanaian Data Scientist with the passion for educating and mentoring individuals<br>in the data science community. As a data science instructor, My mission is twofold:<br>1. EDUCATE – I teach core data science skills in a way that’s practical, engaging, and easy to understand.<br>2. EMPOWER – I actively mentor young people entering the data field, helping them grow in confidence and capability.<br><br>As the author of DSiPE (Data Science in Plain English), I break down challenging and somewhat intimidating technical topics into <br>plain, digestible content. Each article is written with the beginner in mind bringing energy, clarity, and a learner-first mindset across board. <br>
+<h1 align="center">Hi!, I'm Thomas Boaheng</h1>
+I'm a passionate Data Analyst and Database Administrator with a strong focus on turning raw data into actionable insights and building efficient dashboards  <br>
 
 
 ## 🌐 Socials
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/eugene-tettey" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/thomas-boaheng" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
   </a>
 
