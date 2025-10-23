@@ -16,13 +16,13 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 
 <!-- X (formerly Twitter) -->
   <!-- X (formerly Twitter) -->
-  <a href="https://x.com/eugene_tettey" target="_blank" rel="noreferrer">
-    <img src="assets/icons/X.png" alt="X" width="40" />
+  <a href="https://www.instagram.com/tommy_ghost10?igsh=MWc3bWY2cm4wZDY1eQ%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
+    <img src="assets/icons/IG.png" alt="IG" width="40" />
   </a>
 
 
   <!-- Email -->
-  <a href="mailto:ugeneayerkain@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:thomasboaheng9@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
   </a>
 </p>
