@@ -34,19 +34,55 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
-  
-  <!-- Data & Analytics -->
-  <img src="assets/icons/powerbi.png" width="45" alt="Power BI"/>
-  <img src="assets/icons/excel.jpg" width="45" alt="Excel"/>
-  <img src="assets/icons/sql.jpg" width="45" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" alt="Anaconda"/>
-</p>
+<table align="center">
+  <tr>
+    <th>🧠 Programming Languages</th>
+    <th>📊 Data & Analytics</th>
+    <th>🛠️ Developer Tools</th>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+    </td>
+    <td>
+      <img src="assets/icons/powerbi.png" width="45" alt="Power BI"/>
+      <img src="assets/icons/excel.jpg" width="45" alt="Excel"/>
+      <img src="assets/icons/sql.jpg" width="45" alt="SQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" alt="Anaconda"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+      <img src="assets/icons/netbeans.png" width="45" alt="NetBeans"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
+      <img src="assets/icons/cursor.png" width="45" alt="Cursor"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Subtle hover animation -->
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th {
+    font-size: 1.1em;
+    padding-bottom: 10px;
+  }
+  td {
+    padding: 10px 20px;
+  }
+  img {
+    margin: 6px;
+    transition: transform 0.2s ease-in-out;
+  }
+  img:hover {
+    transform: scale(1.15);
+  }
+</style>
+
 
 
 ## 🏆 GitHub Trophies
