@@ -9,7 +9,7 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 ## 🌐 Socials
 <p align="left">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/thomas-boaheng" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/thomas-boaheng/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
   </a>
 
