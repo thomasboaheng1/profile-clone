@@ -50,7 +50,7 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UgeneTettey&theme=aura&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=thomasboaheng1&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -63,17 +63,17 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
   <tr>
     <td colspan="2">
       <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UgeneTettey&theme=aura&hide_border=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasboaheng1&theme=aura&hide_border=false&layout=compact" />
     </td>
   </tr>
   <tr>
     <td>
       <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=UgeneTettey&theme=aura&show_icons=true&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thomasboaheng1&theme=aura&show_icons=true&hide_border=false&include_all_commits=true&count_private=false" />
     </td>
     <td>
       <!-- GitHub Streaks -->
-      <img src="https://nirzak-streak-stats.vercel.app/?user=UgeneTettey&theme=aura&hide_border=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=thomasboaheng1&theme=aura&hide_border=false" />
     </td>
   </tr>
 </table>
@@ -85,6 +85,6 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UgeneTettey&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=thomasboaheng1&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
