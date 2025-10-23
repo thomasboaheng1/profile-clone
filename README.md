@@ -12,11 +12,7 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
   <a href="https://www.linkedin.com/in/thomas-boaheng/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
   </a>
-
-  <!-- Medium -->
-  <a href="https://medium.com/@dsipe_" target="_blank" rel="noreferrer">
-    <img src="assets/icons/medium-2.png" alt="Medium" width="40" />
-  </a>
+>
 
 <!-- X (formerly Twitter) -->
   <!-- X (formerly Twitter) -->
