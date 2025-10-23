@@ -42,8 +42,8 @@ I'm a passionate Data Analyst and Database Administrator with a strong focus on 
   
   <!-- Data & Analytics -->
   <img src="assets/icons/powerbi.png" width="45" alt="Power BI"/>
-  <img src="assets/icons/excel.png" width="45" alt="Excel"/>
-  <img src="assets/icons/sql.png" width="45" alt="SQL"/>
+  <img src="assets/icons/excel.jpg" width="45" alt="Excel"/>
+  <img src="assets/icons/sql.jpg" width="45" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" alt="Anaconda"/>
 </p>
